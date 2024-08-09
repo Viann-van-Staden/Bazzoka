@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Bazzoka:jar">
+    <output-path>$USER_HOME$/Desktop/Minecraft-Test-Servert-Paper/plugins</output-path>
+    <root id="archive" name="Bazzoka.jar">
+      <element id="module-output" name="Bazzoka" />
+    </root>
+  </artifact>
+</component>

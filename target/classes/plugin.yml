@@ -1,0 +1,8 @@
+name: Bazzoka
+version: '1.0-SNAPSHOT'
+main: me.viann.bazzoka.Bazzoka
+api-version: '1.20'
+commands:
+  bazzoka:
+    description: Gives the player an Explosive Bow
+    usage: /bazzoka
